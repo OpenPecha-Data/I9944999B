@@ -1,0 +1,63 @@
+id: I9944999B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:51:51.575533'
+last_modified: '2022-06-19T17:51:51.575539'
+parser: null
+source_metadata:
+  title: Topical Outlines
+  language: de
+  description: 'A series of topical or thematic outlines (sa bcad):'
+  volume:
+    fFCFB:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      base_file: fFCFB.txt
+      order: 1
+      parent: Abhidharma
+    fE095:
+      title: 'The Precious Jewelled Key: A Synopsis of the Aspiration of the Great
+        Perfection Mañjuśrī'
+      base_file: fE095.txt
+      order: 2
+      parent: Aspiration Prayers
+    fB1E4:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      base_file: fB1E4.txt
+      order: 3
+      parent: Aspiration Prayers
+    f7149:
+      title: A Topical Outline of the General Confession Spoken by the Five Great
+        Sages
+      base_file: f7149.txt
+      order: 4
+      parent: Confession
+    f7BA3:
+      title: Topical Outline of the Prayer That Swiftly Fulfils All Wishes (Sampa
+        Nyur Drupma)
+      base_file: f7BA3.txt
+      order: 5
+      parent: Guru Rinpoche Prayers
+    f1343:
+      title: Concise Explanatory Outline of the Heart of Wisdom
+      base_file: f1343.txt
+      order: 6
+      parent: Prajñāpāramitā
+    fC688:
+      title: Outline of the Ten Royal Sūtras
+      base_file: fC688.txt
+      order: 7
+      parent: Sūtras
+    fE227:
+      title: An Outline of The Praise to Tārā with Twenty-One Verses of Homage
+      base_file: fE227.txt
+      order: 8
+      parent: Tārā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
